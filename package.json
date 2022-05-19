@@ -5,12 +5,15 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FirusVictor/react-shadow-events.git"
+    "url": "git+https://github.com/firus-v/react-shadow-events.git"
   },
   "author": "Firus Victor",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/FirusVictor/react-shadow-events/issues"
+    "url": "https://github.com/firus-v/react-shadow-events/issues"
   },
-  "homepage": "https://github.com/FirusVictor/react-shadow-events#readme"
+  "homepage": "https://github.com/firus-v/react-shadow-events#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
 }
