@@ -1,1 +1,0 @@
-export function retargetEvents(target: any): void;
