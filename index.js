@@ -24,9 +24,8 @@ module.exports = function retargetEvents(shadowRoot) {
 
         var nativeEventName = getNativeEventName(reactEventName);
 
-        function retargetEvent(nativeEvent) {
-            nativeEvent.nativeEvent = nativeEvent; //temp solution
-            var event = nativeEvent;
+        function retargetEvent(event) {
+            event.nativeEvent = event;
 
             var path = event.path || (event.composedPath && event.composedPath()) || composedPath(event.target);
 

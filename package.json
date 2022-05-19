@@ -1,6 +1,6 @@
 {
   "name": "@firus-v/react-shadow-events",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Retargets event in a shadow root to react",
   "main": "index.js",
   "repository": {
