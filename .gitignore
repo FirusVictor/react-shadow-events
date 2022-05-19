@@ -1,0 +1,14 @@
+/node_modules
+npm_debug.log
+/coverage
+/.idea
+/dist
+/lib/
+.nyc_output
+.env
+.idea
+jsconfig.json
+.vscode
+yarn.lock
+.cache
+.DS_Store

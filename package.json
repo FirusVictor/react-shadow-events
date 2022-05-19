@@ -1,0 +1,9 @@
+{
+  "name": "react-shadow-events",
+  "version": "1.0.0",
+  "description": "Retargets event in a shadow root to react",
+  "main": "index.js",
+  "repository": "FirusVictor/eact-shadow-events",
+  "author": "Firus Victor <firus.victor@gmail.com>",
+  "license": "MIT"
+}
