@@ -1,1 +1,1 @@
-export const retargetEvents: (target: any) => void;
+export function retargetEvents(target: any): void;
