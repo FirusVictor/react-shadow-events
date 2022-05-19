@@ -1,9 +1,16 @@
 {
-  "name": "react-shadow-events",
+  "name": "@firus-v/react-shadow-events",
   "version": "1.0.0",
   "description": "Retargets event in a shadow root to react",
   "main": "index.js",
-  "repository": "FirusVictor/eact-shadow-events",
-  "author": "Firus Victor <firus.victor@gmail.com>",
-  "license": "MIT"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FirusVictor/react-shadow-events.git"
+  },
+  "author": "Firus Victor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FirusVictor/react-shadow-events/issues"
+  },
+  "homepage": "https://github.com/FirusVictor/react-shadow-events#readme"
 }
