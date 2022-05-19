@@ -1,6 +1,6 @@
 {
   "name": "@firus-v/react-shadow-events",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Retargets event in a shadow root to react",
   "main": "index.js",
   "repository": {
@@ -12,5 +12,8 @@
   "bugs": {
     "url": "https://github.com/FirusVictor/react-shadow-events/issues"
   },
-  "homepage": "https://github.com/FirusVictor/react-shadow-events#readme"
+  "homepage": "https://github.com/FirusVictor/react-shadow-events#readme",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  }
 }
